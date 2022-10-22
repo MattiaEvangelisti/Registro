@@ -37,12 +37,24 @@ namespace Registro
                 cognome = c;
                 MessageBox.Show("Nome: " + nome + "\nCognome: " + cognome);
             }
+            public string Stampa()
+            {
+                return nome + " " + cognome;
+            }
         }
 
         private void btnInserisci_Click(object sender, RoutedEventArgs e)
         {
             Alunno a = new Alunno(txtNome.Text, txtCognome.Text);
             classe.Add(a);
+        }
+
+        private void btnVisualizza_Click(object sender, RoutedEventArgs e)
+        {
+            foreach(Alunno a in classe)
+            {
+                lstVisualizza.Items.Add(a.Stampa());
+            }
         }
     }
 }
