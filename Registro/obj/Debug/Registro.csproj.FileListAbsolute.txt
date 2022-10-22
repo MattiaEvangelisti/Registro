@@ -1,0 +1,16 @@
+C:\Users\mattia.evangelist.4g\source\repos\Registro\Registro\bin\Debug\Registro.exe.config
+C:\Users\mattia.evangelist.4g\source\repos\Registro\Registro\bin\Debug\Registro.exe
+C:\Users\mattia.evangelist.4g\source\repos\Registro\Registro\bin\Debug\Registro.pdb
+C:\Users\mattia.evangelist.4g\source\repos\Registro\Registro\obj\Debug\Registro.csproj.AssemblyReference.cache
+C:\Users\mattia.evangelist.4g\source\repos\Registro\Registro\obj\Debug\Registro.csproj.SuggestedBindingRedirects.cache
+C:\Users\mattia.evangelist.4g\source\repos\Registro\Registro\obj\Debug\MainWindow.g.cs
+C:\Users\mattia.evangelist.4g\source\repos\Registro\Registro\obj\Debug\App.g.cs
+C:\Users\mattia.evangelist.4g\source\repos\Registro\Registro\obj\Debug\Registro_MarkupCompile.cache
+C:\Users\mattia.evangelist.4g\source\repos\Registro\Registro\obj\Debug\Registro_MarkupCompile.lref
+C:\Users\mattia.evangelist.4g\source\repos\Registro\Registro\obj\Debug\MainWindow.baml
+C:\Users\mattia.evangelist.4g\source\repos\Registro\Registro\obj\Debug\Registro.g.resources
+C:\Users\mattia.evangelist.4g\source\repos\Registro\Registro\obj\Debug\Registro.Properties.Resources.resources
+C:\Users\mattia.evangelist.4g\source\repos\Registro\Registro\obj\Debug\Registro.csproj.GenerateResource.cache
+C:\Users\mattia.evangelist.4g\source\repos\Registro\Registro\obj\Debug\Registro.csproj.CoreCompileInputs.cache
+C:\Users\mattia.evangelist.4g\source\repos\Registro\Registro\obj\Debug\Registro.exe
+C:\Users\mattia.evangelist.4g\source\repos\Registro\Registro\obj\Debug\Registro.pdb
